@@ -1,4 +1,8 @@
+.input {
+  accent-color: red;
+  color: red;
+}
 
-label:nth-child(even) {
+label:has(.input) {
   color: red;
 }
