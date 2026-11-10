@@ -1,4 +1,4 @@
-.input {
-  accent-color: red; /* red radio circle */
+
+label:nth-child(even) {
   color: red;
 }
